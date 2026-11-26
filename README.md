@@ -1,3 +1,5 @@
+> **Moved.** This project now lives in [d3dcrypted/llmops](https://github.com/d3dcrypted/llmops), in the [`security-governance/`](https://github.com/d3dcrypted/llmops/tree/main/security-governance) directory, together with the rest of the stack. This repository is archived and stays readable.
+
 # LLMOps Security and Governance
 
 A practical control-plane scaffold for safer LLM applications. It treats security as an application boundary: classify inputs, apply policy, redact sensitive values, and retain auditable decisions without storing raw secrets.
